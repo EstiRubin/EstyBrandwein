@@ -32,3 +32,5 @@ I am a software engineering who loves programming and always wants to learn more
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
