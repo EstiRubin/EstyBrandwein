@@ -56,6 +56,6 @@ str8546200@gmail.com
 </a>
 <br></br>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyBrandwein&theme=radical" alt="EstyKauftiel" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyBrandwein&theme=radical" alt="EstyBrandwein" />
 </p>
 
