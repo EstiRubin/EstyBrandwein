@@ -50,11 +50,11 @@ str8546200@gmail.com
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyBrandwein&show_icons=true&locale=en&layout=compact&theme=dracula" alt="EstyBrandwein" />
 </p>
-
+<br></br>
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstyBrandwein&show_icons=true&theme=dracula&line_height=27" />
 </a>
-
+<br></br>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyBrandwein&theme=radical" alt="EstyKauftiel" />
 </p>
