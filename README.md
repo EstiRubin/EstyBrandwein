@@ -36,3 +36,25 @@ I am a software engineering who loves programming and always wants to learn more
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
 
 ![Esti's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstyBrandwein&show_icons=true&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0&include_all_commits=true&count_private=true)
+
+
+
+## 📫Let's Connect
+Feel free to reach out for collaboration or just to chat!
+Email:
+str8546200@gmail.com
+
+
+## 📊Github Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyBrandwein&show_icons=true&locale=en&layout=compact&theme=dracula" alt="EstyBrandwein" />
+</p>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstyBrandwein&show_icons=true&theme=dracula&line_height=27" />
+</a>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyBrandwein&theme=radical" alt="EstyKauftiel" />
+</p>
+
