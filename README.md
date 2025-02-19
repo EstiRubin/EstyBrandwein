@@ -48,8 +48,6 @@ str8546200@gmail.com
 <br></br>
 
 <br></br>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstiRubin&theme=radical" alt="EstyBrandwein" />
-</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiRubin&theme=radical&layout=compact)</p>
